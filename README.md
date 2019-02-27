@@ -8,7 +8,7 @@
 
 ![image](https://github.com/pocketrock/virtualreality-Code/blob/master/tupianyi/figure1.png)
 
-![image](https://github.com/pocketrock/virtualreality-Code/blob/master/tupianer/figure2.PNGg)
+![image](https://github.com/pocketrock/virtualreality-Code/blob/master/tupianer/figure2.Png)
 
 配套数据分析部分<br>  
 
